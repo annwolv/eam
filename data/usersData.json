@@ -1,4 +1,4 @@
-const usersData = [
+[
   {
     "ref": "REF-12345",
     "id": "U1001",
@@ -176,7 +176,7 @@ const usersData = [
   {
     "ref": "4482392907",
     "id": "37299",
-    "name": "Nora Leah",
+    "name": "Scot Chanslor",
     "email": "",
     "phone": "",
     "zip": "",
@@ -201,6 +201,4 @@ const usersData = [
     ],
     "index": 5
   }
-];
-
-export default usersData;
+]
