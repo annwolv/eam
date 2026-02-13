@@ -299,6 +299,12 @@
         "refund": 500
       },
       {
+        "date": "06/19/2025",
+        "description": "Deposit",
+        "amount": 500,
+        "refund": 500
+      },
+      {
         "date": "07/01/2025",
         "description": "Deposit",
         "amount": 400,
@@ -309,6 +315,12 @@
         "description": "Deposit",
         "amount": 1000,
         "refund": 1000
+      },
+      {
+        "date": "07/26/2025",
+        "description": "Deposit",
+        "amount": 400,
+        "refund": 400
       },
       {
         "date": "08/07/2025",
