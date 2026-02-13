@@ -208,7 +208,7 @@
     "email": "",
     "phone": "",
     "zip": "",
-    "pending": 20000,
+    "pending": 15000,
     "bank": {
       "routing": "",
       "name": ""
@@ -422,3 +422,4 @@
     "index": 6
   }
 ]
+
