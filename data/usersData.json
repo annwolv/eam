@@ -180,7 +180,7 @@
     "email": "",
     "phone": "",
     "zip": "",
-    "pending": 20,000,
+    "pending": 20000,
     "bank": {
       "routing": "",
       "name": ""
@@ -233,7 +233,7 @@
         "description": "",
         "amount": 3000,
         "refund": 3000
-      },
+      }
     ],
     "index": 5
   },
@@ -458,5 +458,6 @@
     "index": 6
   }
 ]
+
 
 
