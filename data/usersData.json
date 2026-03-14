@@ -502,15 +502,9 @@
       },
       {
         "date": "",
-        "description": "Auto Refund (Pending)",
+        "description": "Auto Refund (Pending payment)",
         "amount": 15500,
         "refund": 15500
-      },
-      {
-        "date": "",
-        "description": "Total Refund",
-        "amount": 52000,
-        "refund": 52000
       }
     ],
     "index": 7
