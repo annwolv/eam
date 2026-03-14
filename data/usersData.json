@@ -499,12 +499,6 @@
         "description": "E-Code Activation",
         "amount": 20000,
         "refund": 20000
-      },
-      {
-        "date": "",
-        "description": "Auto Refund (Pending payment)",
-        "amount": 15500,
-        "refund": 15500
       }
     ],
     "index": 7
