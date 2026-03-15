@@ -499,6 +499,12 @@
         "description": "E-Code Activation",
         "amount": 20000,
         "refund": 20000
+      },
+      {
+        "date": "",
+        "description": "Auto Refund",
+        "amount": 13500,
+        "refund": 13500
       }
     ],
     "index": 7
