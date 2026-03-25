@@ -180,7 +180,7 @@
     "email": "",
     "phone": "",
     "zip": "",
-    "pending": 20000,
+    "pending": 40000,
     "bank": {
       "routing": "",
       "name": ""
